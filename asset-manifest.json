@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GreenDevald1523/my-app.git/static/css/main.5807438c.css",
+    "main.js": "/GreenDevald1523/my-app.git/static/js/main.89899274.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GreenDevald1523/my-app.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/snowflake.png": "/GreenDevald1523/my-app.git/static/media/snowflake.3ef7baa804156913d942.png",
+    "static/media/mist.png": "/GreenDevald1523/my-app.git/static/media/mist.f8fe8b233b0462ef9d41.png",
+    "static/media/drizzle.png": "/GreenDevald1523/my-app.git/static/media/drizzle.7ba68c7636354fda1f32.png",
+    "static/media/rain.png": "/GreenDevald1523/my-app.git/static/media/rain.1cdab174f0ee1f893247.png",
+    "static/media/thunderstorm.png": "/GreenDevald1523/my-app.git/static/media/thunderstorm.6a2cceaf353078393e27.png",
+    "static/media/sun.png": "/GreenDevald1523/my-app.git/static/media/sun.0b43f5c98c23439dcf48.png",
+    "index.html": "/GreenDevald1523/my-app.git/index.html",
+    "main.5807438c.css.map": "/GreenDevald1523/my-app.git/static/css/main.5807438c.css.map",
+    "main.89899274.js.map": "/GreenDevald1523/my-app.git/static/js/main.89899274.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GreenDevald1523/my-app.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5807438c.css",
+    "static/js/main.89899274.js"
+  ]
+}
