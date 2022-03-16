@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/GreenDevald1523/my-app.git",
+  "homepage": "https://github.com/greendevald1523/my-app.git/",
   "dependencies": {
     "@chakra-ui/modal": "^1.10.10",
     "@chakra-ui/react": "^1.8.6",
