@@ -65,5 +65,11 @@ You did everything correct if you see the pproject published:
 ```shell
 > my-app@0.1.0 deploy
 > gh-pages -d build
-```
 
+Published
+```
+<h2>How to use?</h2>
+You can find out the weather info differently:
+- Using an input
+- Selecting out of last 3 requests
+- Adding _/?city={YOUR_CITY}_
