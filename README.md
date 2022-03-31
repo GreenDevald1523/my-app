@@ -1,5 +1,5 @@
 <h1 align="center">Weather checker🌡</h1>
-<p><a href="https://github.com/GreenDevald1523/my-app/">Try demo.</a></p>
+<p><a href="https://github.com/GreenDevald1523/my-app/">Try demo</a></p>
 
 <h2>Decription</h2>
 You can use it in order to check out the weather statistics in each city/country of the world.
@@ -14,5 +14,5 @@ npm start # starts your react project
 ```
 
 Now your project is launched in your browser!
-
-<h2></h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h2>How to use</h2>
