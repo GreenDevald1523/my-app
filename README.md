@@ -1,4 +1,4 @@
-<h1 align="center">Check the weather</h1>
+<h1 align="center">Weather checker🌡</h1>
 <p><a href="https://github.com/GreenDevald1523/my-app/">Try demo.</a></p>
 
 <h2>Decription</h2>
@@ -10,5 +10,9 @@ You can use it in order to check out the weather statistics in each city/country
 ```shell
 npx create-react-app my-app # creats your react app with all the required basic files
 cd my-app
-npm start # starts your project and launches it in your browser.
+npm start # starts your react project
 ```
+
+Now your project is launched in your browser!
+
+<h2></h2>
