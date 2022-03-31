@@ -15,4 +15,8 @@ npm start # starts your react project
 
 Now your project is launched in your browser!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenDevald1523)](https://github.com/anuraghazra/github-readme-stats)
-<h2>How to use</h2>
+<h2>Initial Configuration</h2>
+One of the most essential parts is <a href="https://openweathermap.org/current">Weather API</a>. You need to login your email and find your personal API key. Then put it in this link: 
+```shell
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+```
