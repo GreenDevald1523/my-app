@@ -75,6 +75,6 @@ You can find out the weather info differently: <br>
 2. Selecting out of last 3 requests <br>
 <img src="https://sun9-73.userapi.com/impf/ifBXhyWo4aFew9EIDElqVRQetLii814iOACyRQ/OrdFQaxUJTc.jpg?size=202x140&quality=96&sign=3bcd143891374ba700c8764221327317&type=album" />
 3. Adding /?city={YOUR_CITY} to url <br>
-[image](https://user-images.githubusercontent.com/46032258/161056141-ce6e1a91-2722-44b6-b4cf-7ac0137fb5d3.png)
+<img src="https://sun9-31.userapi.com/impf/SzpU-JtxksLEIaLJawRM1lMcXMX-gmakfL2EeA/gTKmcpUog4c.jpg?size=552x38&quality=96&sign=1423c1fb521d4d8c129f48222707e227&type=album" />
 
 
