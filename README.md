@@ -76,7 +76,8 @@ You can find out the weather info differently: <br>
 <img src="https://sun9-73.userapi.com/impf/ifBXhyWo4aFew9EIDElqVRQetLii814iOACyRQ/OrdFQaxUJTc.jpg?size=202x140&quality=96&sign=3bcd143891374ba700c8764221327317&type=album" />
 3. Adding /?city={YOUR_CITY} to url: <br>
 <img src="https://sun9-31.userapi.com/impf/SzpU-JtxksLEIaLJawRM1lMcXMX-gmakfL2EeA/gTKmcpUog4c.jpg?size=552x38&quality=96&sign=1423c1fb521d4d8c129f48222707e227&type=album" />
-
+<h3>Example of a result</h3>
+![image](https://user-images.githubusercontent.com/46032258/161057526-d2e66f3c-00f5-4acc-b1b9-85f7b8817eb4.png)
 <h2>Links</h2>
 Other projects <br>
     * <a href="https://github.com/GreenDevald1523/API-Dota-2/tree/master">API Dota 2</a> <br>
