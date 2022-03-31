@@ -69,7 +69,7 @@ You did everything correct if you see the pproject published:
 Published
 ```
 <h2>How to use?</h2>
-You can find out the weather info differently:
-- Using an input
-- Selecting out of last 3 requests
-- Adding _/?city={YOUR_CITY}_
+You can find out the weather info differently: <br>
+- Using an input <br>
+- Selecting out of last 3 requests <br>
+- Adding _/?city={YOUR_CITY}_ <br>
