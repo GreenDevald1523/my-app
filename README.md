@@ -70,6 +70,7 @@ Published
 ```
 <h2>How to use?</h2>
 You can find out the weather info differently: <br>
-- Using an input <br>
-- Selecting out of last 3 requests <br>
-- Adding /?city={YOUR_CITY} <br>
+1. Using an input <br>
+<img src="https://sun9-43.userapi.com/impf/5BwS_nMZexa1EvtwPo1cj6QYMBeYKR0hlZLmDg/_0NpGQDO2gw.jpg?size=308x83&quality=96&sign=4455716e074f8fdf1b79cb3ecec12153&type=album" />
+3. Selecting out of last 3 requests <br>
+4. Adding /?city={YOUR_CITY} to url <br>
