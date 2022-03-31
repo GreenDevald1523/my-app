@@ -3,7 +3,7 @@
 
 <h2>Decription</h2>
 You can use it in order to check out the weather statistics in each city/country of the world.
-<img height="300px" src="https://vk.com/doc192935276_632581953?hash=6efa13ff0cd86cba35&dl=12ed647c85a5541e55&wnd=1&module=im">
+<img height="350px" src="https://vk.com/doc192935276_632581953?hash=6efa13ff0cd86cba35&dl=12ed647c85a5541e55&wnd=1&module=im">
 
 <h2>Installation/Getting started</h2>
 
