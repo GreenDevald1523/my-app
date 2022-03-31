@@ -78,6 +78,6 @@ You can find out the weather info differently: <br>
 <img src="https://sun9-31.userapi.com/impf/SzpU-JtxksLEIaLJawRM1lMcXMX-gmakfL2EeA/gTKmcpUog4c.jpg?size=552x38&quality=96&sign=1423c1fb521d4d8c129f48222707e227&type=album" />
 
 <h2>Links</h2>
-* Other projects
-    * <a href="https://github.com/GreenDevald1523/API-Dota-2/tree/master">API Dota 2</a>
+Other projects <br>
+    * <a href="https://github.com/GreenDevald1523/API-Dota-2/tree/master">API Dota 2</a> <br>
     * <a href="https://github.com/GreenDevald1523/Mendeleev-s-Table">Mendeveel Table</a>
