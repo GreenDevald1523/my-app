@@ -70,11 +70,11 @@ Published
 ```
 <h2>How to use?</h2>
 You can find out the weather info differently: <br>
-1. Using an input <br>
+1. Using an input: <br>
 <img src="https://sun9-43.userapi.com/impf/5BwS_nMZexa1EvtwPo1cj6QYMBeYKR0hlZLmDg/_0NpGQDO2gw.jpg?size=308x83&quality=96&sign=4455716e074f8fdf1b79cb3ecec12153&type=album" />
-2. Selecting out of last 3 requests <br>
+2. Selecting out of last 3 requests: <br>
 <img src="https://sun9-73.userapi.com/impf/ifBXhyWo4aFew9EIDElqVRQetLii814iOACyRQ/OrdFQaxUJTc.jpg?size=202x140&quality=96&sign=3bcd143891374ba700c8764221327317&type=album" />
-3. Adding /?city={YOUR_CITY} to url <br>
+3. Adding /?city={YOUR_CITY} to url: <br>
 <img src="https://sun9-31.userapi.com/impf/SzpU-JtxksLEIaLJawRM1lMcXMX-gmakfL2EeA/gTKmcpUog4c.jpg?size=552x38&quality=96&sign=1423c1fb521d4d8c129f48222707e227&type=album" />
 
 
