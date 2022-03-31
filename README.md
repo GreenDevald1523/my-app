@@ -71,11 +71,11 @@ Published
 <h2>How to use?</h2>
 You can find out the weather info differently: <br>
 1. Using an input: <br>
-<img src="https://sun9-43.userapi.com/impf/5BwS_nMZexa1EvtwPo1cj6QYMBeYKR0hlZLmDg/_0NpGQDO2gw.jpg?size=308x83&quality=96&sign=4455716e074f8fdf1b79cb3ecec12153&type=album" />
+<img src="https://sun9-60.userapi.com/impf/Z3UxLyg7gzSjqmY5u82GPaGZ78UfQV78nJ_wHA/Ale0ZbeYGgg.jpg?size=289x62&quality=96&sign=b0eae1081062972ff34cc2a8b90ff649&type=album" />
 2. Selecting out of last 3 requests: <br>
 <img src="https://sun9-73.userapi.com/impf/ifBXhyWo4aFew9EIDElqVRQetLii814iOACyRQ/OrdFQaxUJTc.jpg?size=202x140&quality=96&sign=3bcd143891374ba700c8764221327317&type=album" />
 3. Adding /?city={YOUR_CITY} to url: <br>
-<img src="https://sun9-31.userapi.com/impf/SzpU-JtxksLEIaLJawRM1lMcXMX-gmakfL2EeA/gTKmcpUog4c.jpg?size=552x38&quality=96&sign=1423c1fb521d4d8c129f48222707e227&type=album" />
+<img src="https://sun9-81.userapi.com/impf/qYEEw-r1aS3NNvxfXExQ-rzY7o8M8TUj35Qdpg/QUadpIPGzV8.jpg?size=1212x45&quality=96&sign=0edce3d3a303677b819499176cb122dc&type=album" />
 <h3>Example of a result</h3>
 <img src="https://sun9-11.userapi.com/impf/UOZD19KPEwuEI30Ih0IcCvssJYDFwsKJx7yCeQ/TXmD5euB0tc.jpg?size=426x287&quality=96&sign=9a31e04e3dc42a0fd5e096d027950498&type=album" />
 <h2>Links</h2>
