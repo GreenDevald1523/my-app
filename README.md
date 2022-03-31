@@ -41,5 +41,29 @@ Add to _package.json_:
     "deploy": "gh-pages -d build",
   },
 ```
+<h2>Building</h2>
+Next, you need to build your project:
 
+```shell
+npm run build
+```
+Wait untill you see this result:
+
+```shell 
+The build folder is ready to be deployed.
+```
+
+<h2>Deploy</h2>
+Now, it's time to publish!
+
+```shell
+npm run deploy
+```
+
+You did everything correct if you see the pproject published:
+
+```shell
+> my-app@0.1.0 deploy
+> gh-pages -d build
+```
 
