@@ -72,4 +72,4 @@ Published
 You can find out the weather info differently: <br>
 - Using an input <br>
 - Selecting out of last 3 requests <br>
-- Adding _/?city={YOUR_CITY}_ <br>
+- Adding /?city={YOUR_CITY} <br>
