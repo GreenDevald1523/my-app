@@ -20,3 +20,26 @@ One of the most essential parts is <a href="https://openweathermap.org/current">
 ```shell
 https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 ```
+
+<h2>Developing</h2>
+After adding all the files and folders, you will have to publish your project on GitHub in your repository. Firstly, open _package.json_ and add new code strings:
+
+```shell
+"homepage": "https://{USERNAME}.github.io/my-app/"
+```
+In order to publish, use:
+
+```shell
+npm install --save gh-pages / yarn add gh-pages
+```
+Add to _package.json_:
+```shell
+...
+"scripts": {
+    ...
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+  },
+```
+
+
