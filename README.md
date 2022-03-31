@@ -72,5 +72,9 @@ Published
 You can find out the weather info differently: <br>
 1. Using an input <br>
 <img src="https://sun9-43.userapi.com/impf/5BwS_nMZexa1EvtwPo1cj6QYMBeYKR0hlZLmDg/_0NpGQDO2gw.jpg?size=308x83&quality=96&sign=4455716e074f8fdf1b79cb3ecec12153&type=album" />
-3. Selecting out of last 3 requests <br>
-4. Adding /?city={YOUR_CITY} to url <br>
+2. Selecting out of last 3 requests <br>
+<img src="https://sun9-73.userapi.com/impf/ifBXhyWo4aFew9EIDElqVRQetLii814iOACyRQ/OrdFQaxUJTc.jpg?size=202x140&quality=96&sign=3bcd143891374ba700c8764221327317&type=album" />
+3. Adding /?city={YOUR_CITY} to url <br>
+[image](https://user-images.githubusercontent.com/46032258/161056141-ce6e1a91-2722-44b6-b4cf-7ac0137fb5d3.png)
+
+
